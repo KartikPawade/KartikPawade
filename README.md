@@ -11,7 +11,7 @@
 
 - 🔧 Backend engineer with 4+ years building **distributed microservices** and cloud-native systems at scale.
 - 🤖 Deep in the **AI/Agentic space** — building production-grade RAG systems and multi-agent pipelines with LangChain & LangGraph.
-- 🌱 Actively **contributing to open source** and exploring the frontier of agentic AI architectures.
+- 🌱 Actively cheking for **open source contribution** and exploring the frontier of agentic AI architectures.
 - 🚀 Open to work: on-site / remote / hybrid.
 
 <br />
