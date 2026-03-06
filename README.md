@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+</p>
 
-<!--
-**KartikPawade/KartikPawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/KartikPawade">
+    <img alt="Typing intro for Kartik Pawade"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=39D353&center=true&vCenter=true&width=860&height=24&lines=Hey!+I'm+Kartik+Pawade;Backend+Engineer+%7C+4%2B+years+building+distributed+systems;Agentic+RAG+%7C+LangGraph+Multi-Agent+Pipelines;Microservices+%7C+Spring+Boot+%7C+AWS+%7C+Kubernetes;Contributing+to+Open+Source+%F0%9F%8C%B1;Open+to+work%3A+On-site+or+Remote" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+- 🔧 Backend engineer with 4+ years building **distributed microservices** and cloud-native systems at scale.
+- 🤖 Deep in the **AI/Agentic space** — building production-grade RAG systems and multi-agent pipelines with LangChain & LangGraph.
+- 🌱 Actively **contributing to open source** and exploring the frontier of agentic AI architectures.
+- 🚀 Open to work: on-site / remote / hybrid.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<p align="center">
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,spring,python,fastapi,langchain,postgres,redis,rabbitmq,docker,kubernetes,aws,git,githubactions,linux&perline=14" />
+</p>
+
+---
+
+---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
